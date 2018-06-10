@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c68cdd-5a48-4f69-895d-8721161ae2ef" name="Default" comment="sort folders">
+    <list default="true" id="90c68cdd-5a48-4f69-895d-8721161ae2ef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
@@ -16,13 +16,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/WordAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/adapters/WordAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/ColorsFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/ColorsFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/FamilyFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/FamilyFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/NumbersFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/NumbersFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/PhrasesFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/fragments/PhrasesFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/mFragmentPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/adapters/mFragmentPagerAdapter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -2362,6 +2355,14 @@
       <option name="presentableId" value="Default" />
       <updated>1528649572797</updated>
     </task>
+    <task id="LOCAL-00001" summary="sort folders">
+      <created>1528650056986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528650056986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
