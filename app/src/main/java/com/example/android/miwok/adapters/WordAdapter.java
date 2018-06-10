@@ -1,10 +1,9 @@
-package com.example.android.miwok;
+package com.example.android.miwok.adapters;
 
 import android.app.Activity;
 import android.os.Build;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
-import android.support.v4.widget.CircularProgressDrawable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,6 +11,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
+import com.example.android.miwok.R;
+import com.example.android.miwok.Word;
 
 import java.util.ArrayList;
 import java.util.Objects;
@@ -29,7 +31,7 @@ public class WordAdapter extends ArrayAdapter<Word> {
 
  //   private static final String LOG_TAG = WordAdapter.class.getSimpleName();
 
-    ArrayList<Word> listofwords = new ArrayList<>();
+//    ArrayList<Word> listofwords = new ArrayList<>();
     /**
      * This is our own custom constructor (it doesn't mirror a superclass constructor).
      * The context is used to inflate the layout file, and the list is the data we want
@@ -47,7 +49,8 @@ public class WordAdapter extends ArrayAdapter<Word> {
         // going to use this second argument, so it can be any value. Here, we used 0.
         super(context, 0, ListOfWords);
         mColorResourceId = colorResourceId;
-        this.listofwords = ListOfWords;
+//        this.listofwords = ListOfWords;
+
     }
 
     /**
